@@ -1,0 +1,29 @@
+[
+    {
+    "date" : "2021-10-08",
+    "text": "Cold European winter and<br>low storage capacities. On top of that, slow wind speeds and dry conditions weighed on renewables’ energy output.",
+	"priority" : "2",
+	"source" : "https://www.cnbc.com/2021/10/08/natural-gas-prices-are-skyrocketing-globally-what-it-means-for-the-us.html"
+    },
+    {
+    "date" : "2022-02-24",
+    "text": "Russian invasion <br>of Ukraine",
+	"priority" : "1"
+    },
+	{
+    "date" : "2022-03-23",
+    "text": "Russia demands gas <br>payments settled in rubel",
+	"priority" : "2"
+    },
+	{
+    "date" : "2022-03-31",
+    "text": "Gazprom only accepts <br>payments in rubels",
+	"source" : "https://en.wikipedia.org/wiki/2022_Russia%E2%80%93European_Union_gas_dispute",
+	"priority" : "2"
+	},
+    {
+    "date" : "2022-09-26",
+    "text": "Nordstream 2 <br>Explosion",
+	"priority" : "1"
+    }
+]
