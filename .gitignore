@@ -1,0 +1,13 @@
+/.idea/
+/venv/
+/cache-directory/
+/nb/cache/
+/nb/.ipynb_checkpoints/
+/data/calendar.csv
+*.pyc 
+.DS_Store 
+.env
+*__pycache__*
+nb/Untitled.ipynb
+other/Udacity Reviews.pdf
+nb/.mapbox_token

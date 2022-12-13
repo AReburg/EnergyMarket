@@ -1,0 +1,131 @@
+,Name,Typ,Gewässer,Land,Bundesland,Leistung in MW,lat,lon
+0,Abwinden-Asten,Laufwasserkraftwerk,Donau,AT,OÖ,1680,48.2476453,14.430104777650632
+1,Altenmarkt,Laufwasserkraftwerk,Enns,AT,Stmk,210,46.7728451,15.5403253
+2,Altenwörth,Laufwasserkraftwerk,Donau,AT,NÖ,3280,48.3844998,15.8595378
+3,Annabrücke,Laufwasserkraftwerk,Drau,AT,Kärnten,900,46.5729635,14.4913602
+4,Arnstein,Speicherkraftwerk,Teigitsch,AT,Stmk,300,47.0266797,15.1709872
+5,Aschach,Laufwasserkraftwerk,Donau,AT,OÖ,2874,48.3287897,13.8476913
+6,Aubach,Laufwasserkraftwerk,Isen,DE,Bayern,4,48.1134588,11.5638294
+7,Bischofshofen,Laufwasserkraftwerk,Salzach,AT,Sbg,160,47.4168029,13.2170933
+8,Bodendorf-Mur,Laufwasserkraftwerk,Mur,AT,Stmk,70,47.10771815,14.065431562311822
+9,Bodendorf-Paal,Speicherkraftwerk,Mur,AT,Stmk,270,47.0799558,14.0320413
+10,Bösdornau,Laufwasserkraftwerk,Tuxbach,AT,Tirol,253,47.1341208,11.8184787
+11,Braunau-Simbach,Laufwasserkraftwerk,"Inn, Salzach","AT, DE","OÖ, Bayern",1000,,
+12,Bruck a.d. Leitha,Wind,,AT,NÖ,490,48.030394799999996,16.75801830741043
+13,Dionysen,Laufwasserkraftwerk,Mur,AT,Stmk,160,47.4144811,15.2029326
+14,Dürnrohr,Wärmekraftwerk,,AT,NÖ,4050,48.3317967,15.8991336
+15,Edling,Laufwasserkraftwerk,Drau,AT,Kärnten,870,46.794066,13.5150084
+16,Egglfing-Obernberg (BY/OÖ),Laufwasserkraftwerk,Inn,"AT, DE","OÖ, Bayern",807,,
+17,Ering-Frauenstein (BY/OÖ),Laufwasserkraftwerk,Inn,"AT, DE","OÖ, Bayern",729,,
+18,Erzbach,Laufwasserkraftwerk,Enns,AT,Stmk,11,47.5734604,14.8366558
+19,Feistritz-Ludmannsdorf,Laufwasserkraftwerk,Drau,AT,Kärnten,880,46.53508635,14.17115092936584
+20,Feldkirchen,Laufwasserkraftwerk,Inn,DE,Bayern,382,48.1475774,11.7299205
+21,Ferlach-Maria Rain,Laufwasserkraftwerk,Drau,AT,Kärnten,750,46.5462647,14.298638594592479
+22,Fisching,Laufwasserkraftwerk,Mur,AT,Stmk,201,47.1632919,14.7391881
+23,Freudenau,Laufwasserkraftwerk,Donau,AT,Wien,1720,48.1858519,16.43845173872922
+24,Friesach,Laufwasserkraftwerk,Mur,AT,Stmk,120,47.1707585,15.3372212
+25,Funsingau,Speicherkraftwerk,Salzach,AT,"Sbg, Tirol",250,,
+26,Gabersdorf,Laufwasserkraftwerk,Mur,AT,Stmk,145,46.7813377,15.5881617
+27,Gars,Laufwasserkraftwerk,Inn,DE,Bayern,250,48.1475012,12.2984738
+28,Garsten-St. Ulrich,Laufwasserkraftwerk,Enns,AT,OÖ,353,48.0180536,14.411815939385475
+29,Gasselsdorf,Laufwasserkraftwerk,Mur,AT,Stmk,1,46.7403158,15.3211151
+30,Gerlos,Speicherkraftwerk,Gerlosbach,AT,Tirol,2000,47.20911125,12.029656795913978
+31,Gössendorf,Laufwasserkraftwerk,Mur,AT,Stmk,180,46.9969426,15.4869681
+32,Gralla,Laufwasserkraftwerk,Mur,AT,Stmk,145,46.811407,15.5526074
+33,Greifenstein,Laufwasserkraftwerk,Donau,AT,NÖ,2930,48.345094,16.2408702
+34,Großraming,Laufwasserkraftwerk,Enns,AT,OÖ,723,47.8862041,14.550121
+35,Gstatterboden,Laufwasserkraftwerk,Enns,AT,Stmk,20,47.5923318,14.6369469
+36,Gunggl,Laufwasserkraftwerk,Gungglbach,AT,Tirol,40,47.3241587,11.5961483
+37,Häusling,Speicherkraftwerk,Zillerbach u. a.,AT,Tirol,3600,47.14618295,11.967258070063519
+38,Hieflau,Laufwasserkraftwerk,Enns,AT,Stmk,630,47.6070992,14.7443848
+39,Hieflau-Erzbach,Laufwasserkraftwerk,Enns,AT,Stmk,25,,
+40,Jettenbach 1,Laufwasserkraftwerk,Inn,DE,Bayern,4,48.159305700000004,12.35260579735282
+41,Jettenbach 2,Laufwasserkraftwerk,Inn,DE,Bayern,50,48.158353149999996,12.353426228980894
+42,Jochenstein,Laufwasserkraftwerk,Donau,"AT, DE","OÖ, Bayern",1320,,
+43,Kalsdorf,Laufwasserkraftwerk,Mur,AT,Stmk,190,46.9644025,15.4786966
+44,Kaprun Hauptstufe,Speicherkraftwerk,Kapruner Ache u. a.,AT,Sbg,2400,47.2597118,12.738895201053044
+45,Kaprun Oberstufe (Limberg),Pumpspeicherkraftwerk,Möll,AT,Sbg,1128,47.19705930000001,12.719282911229318
+46,Kaprun Oberstufe (Limberg 2),Pumpspeicherkraftwerk,Möll u. a.,AT,Sbg,4808,,
+47,Kellerberg,Laufwasserkraftwerk,Drau,AT,Kärnten,246,46.6621377,13.6887159
+48,Klammsee,Laufwasserkraftwerk,Rieckenbach u. a.,AT,Sbg,5,47.25329,12.736613811797312
+49,Klaus,Laufwasserkraftwerk,Steyr,AT,OÖ,196,48.1061893,13.8571044
+50,Kreuzbergmaut,Laufwasserkraftwerk,Salzach,AT,Sbg,177,47.441289600000005,13.210858521712662
+51,Kreuzeck-Tagesspeicher (Gondelwiese),Speicherkraftwerk,"Rieken-, Zwenberger-, Mühldorfer Bach, u. a.",AT,Kärnten,450,,
+52,Krippau,Laufwasserkraftwerk,Enns,AT,Stmk,240,47.6859182,14.7056235
+53,Landl,Laufwasserkraftwerk,Enns,AT,Stmk,230,47.64748255,14.77771646800959
+54,Laufnitzdorf,Laufwasserkraftwerk,Mur,AT,Stmk,180,47.2928101,15.3207469
+55,Lavamünd,Laufwasserkraftwerk,Drau,AT,Kärnten,280,46.6424934,14.9420703
+56,Lebring,Laufwasserkraftwerk,Mur,AT,Stmk,202,46.8522,15.5383
+57,Leoben,Laufwasserkraftwerk,Mur,AT,Stmk,99,47.3805128,15.0947756
+58,Losenstein,Laufwasserkraftwerk,Enns,AT,OÖ,394,47.9259676,14.4322317
+59,Malta-Hauptstufe,Speicherkraftwerk,Malta,AT,Kärnten,7300,46.87061985,13.329322360071938
+60,Malta-Oberstufe,Speicherkraftwerk,"Malta, Kölnbreinbach",AT,Kärnten,1200,47.06584215,13.352801756741208
+61,Malta-Unterstufe,Laufwasserkraftwerk,Möll,AT,Kärnten,410,46.8332604,13.360218284876543
+62,Mandling,Speicherkraftwerk,"Mandling, Enns",AT,Stmk,60,47.40455,13.575207
+63,Mayrhofen,Speicherkraftwerk,,AT,Tirol,3450,47.1672188,11.8638664
+64,Melk,Laufwasserkraftwerk,Donau,AT,NÖ,1870,48.2272068,15.3369992
+65,Mellach,Laufwasserkraftwerk,Mur,AT,Stmk,156,46.9418116,15.5161554
+66,Mellach,Wärmekraftwerk,,AT,Stmk,2460,46.9418116,15.5161554
+67,Mellach,Wärmekraftwerk,,AT,Stmk,8380,46.9418116,15.5161554
+68,Mühldorf,Laufwasserkraftwerk,Mühldorfer Seebach,AT,Kärnten,6,46.8583111,13.3451485
+69,Mühlrading,Laufwasserkraftwerk,Enns,AT,"NÖ, OÖ",248,,
+70,Neuötting,Laufwasserkraftwerk,Inn,DE,Bayern,261,48.2402896,12.685745
+71,Niklai,Laufwasserkraftwerk,Niklaibach,AT,Kärnten,16,46.82360355,13.295882313316891
+72,Nußdorf,Laufwasserkraftwerk,Inn,AT,Tirol,48,46.8346229,12.8020349
+73,Nußdorf,Laufwasserkraftwerk,Inn,DE,Bayern,479,47.9056898,12.596737
+74,Oberaudorf-Ebbs (BY/Tirol),Laufwasserkraftwerk,Inn,"AT, DE","Tirol, Bayern",590,,
+75,Obervogau,Laufwasserkraftwerk,Mur,AT,Stmk,130,46.7468816,15.5834495
+76,Ottensheim-Wilhering,Laufwasserkraftwerk,Donau,AT,OÖ,1790,48.31660425,14.15130495
+77,Pack,Laufwasserkraftwerk,"Packbach, Mur",AT,Stmk,8,46.9654645,14.9779263
+78,Passau-Ingling (BY/OÖ),Laufwasserkraftwerk,Inn,"AT, DE","OÖ, Bayern",864,,
+79,Paternion,Laufwasserkraftwerk,Drau,AT,Kärnten,235,46.7118514,13.6370454
+80,Peggau,Laufwasserkraftwerk,Mur,AT,Stmk,132,47.206807,15.3451254
+81,Perach,Laufwasserkraftwerk,Inn,DE,Bayern,194,48.2667,12.7667
+82,Pernegg,Laufwasserkraftwerk,Mur,AT,Stmk,180,47.3594033,15.3459789
+83,Pichlern,Laufwasserkraftwerk,Steyr,AT,OÖ,24,48.0247866,14.3202029
+84,Pöls,Laufwasserkraftwerk,Steyr,AT,Stmk,15,47.2208788,14.5861141
+85,Rabenstein,Laufwasserkraftwerk,Mur,AT,Stmk,139,47.6656951,15.5862343
+86,Ramsaubach,Laufwasserkraftwerk,"Ramsaubach, Enns",AT,Stmk,8,47.4224312,13.6951004
+87,Reißeck-Jahresspeicher,Speicherkraftwerk,Mühldorfer See u. a.,AT,Kärnten,675,,
+88,Reißeck-Tagesspeicher,Speicherkraftwerk,Rieckenbach u. a.,AT,Kärnten,232,,
+89,Retznei,Laufwasserkraftwerk,"Sulm, Mur",AT,Stmk,9,46.7368395,15.5679636
+90,Rosegg-St. Jakob,Laufwasserkraftwerk,Drau,AT,Kärnten,800,46.5835468,14.0131863
+91,Rosenau,Laufwasserkraftwerk,Enns,AT,OÖ,344,48.1486348,14.0075182
+92,Rosenheim,Laufwasserkraftwerk,Inn,DE,Bayern,351,47.8539273,12.127262
+93,Roßhag,Pumpspeicherkraftwerk,Schlegeisgrund,AT,Tirol,2310,47.086833150000004,11.773980875456342
+94,Salza,Speicherkraftwerk,"Salza, Enns",AT,Stmk,85,47.6640882,15.1589528
+95,Schärding-Neuhaus,Laufwasserkraftwerk,Inn,"AT, DE","OÖ, Bayern",960,,
+96,Schönau,Laufwasserkraftwerk,Enns,AT,OÖ,298,48.4930015,14.2637185
+97,Schwabeck,Laufwasserkraftwerk,Drau,AT,Kärnten,790,46.6579805,14.872610198098648
+98,Schwarzach,Speicherkraftwerk,Salzach,AT,Sbg,1200,47.3208816,13.1511239
+99,Sölk,Speicherkraftwerk,Enns,AT,Stmk,610,47.34787205,13.98686223534862
+100,Spielfeld,Laufwasserkraftwerk,Mur,AT,Stmk,130,46.7064901,15.6337629
+101,St. Georgen,Laufwasserkraftwerk,Mur,AT,Stmk,60,47.3396186,15.6836331
+102,St. Johann,Laufwasserkraftwerk,Salzach,AT,Sbg,165,47.2846032,13.34015395444624
+103,St. Martin,Speicherkraftwerk,Teigitsch,AT,Stmk,98,47.0359279,15.388145
+104,St. Pantaleon,Laufwasserkraftwerk,Enns,AT,"NÖ, OÖ",519,,
+105,St. Veit,Laufwasserkraftwerk,Salzach,AT,Sbg,165,47.3291614,13.1542777
+106,Stammham,Laufwasserkraftwerk,Inn,DE,Bayern,232,48.8591973,11.4573801
+107,Staning,Laufwasserkraftwerk,Enns,AT,"OÖ, NÖ",432,,
+108,Steinfeld,Laufwasserkraftwerk,Grabach,AT,Kärnten,15,46.7574965,13.2476697
+109,Talbach,Laufwasserkraftwerk,"Talbach, Enns",AT,Stmk,5,47.3834025,13.6827097
+110,Teigitschmühle,Laufwasserkraftwerk,Teigitsch,AT,Stmk,12,47.02163265,15.166787636664406
+111,Ternberg,Laufwasserkraftwerk,Enns,AT,OÖ,404,47.9458416,14.357251
+112,Teufelsbruck,Laufwasserkraftwerk,Inn,DE,Bayern,250,48.1116835,12.2682221
+113,Töging,Laufwasserkraftwerk,Inn,DE,Bayern,853,49.0235538,11.5604722
+114,Triebenbach,Laufwasserkraftwerk,"Triebenbach, Palten",AT,Stmk,99,47.5022777,14.4635129
+115,Tuxbach,Laufwasserkraftwerk,Tuxbach,AT,Tirol,4,47.1758539,11.7022418
+116,Urreiting,Laufwasserkraftwerk,Salzach,AT,Sbg,165,47.3839333,13.2180687
+117,Villach,Laufwasserkraftwerk,Drau,AT,Kärnten,246,46.6167284,13.8500268
+118,Vordernberg,Laufwasserkraftwerk,Mur,AT,Stmk,4,47.4883966,14.9940399
+119,Wallnerau-Salzachstufe,Laufwasserkraftwerk,Salzach,AT,Sbg,100,,
+120,Wallnerau-Unterwasserstufe,Laufwasserkraftwerk,Salzach,AT,Sbg,51,,
+121,Wallsee-Mitterkirchen,Laufwasserkraftwerk,Donau,AT,"NÖ, OÖ",2100,,
+122,Wasserburg,Laufwasserkraftwerk,Inn,DE,Bayern,241,48.0615171,12.220026
+123,Wasserburg-TW,Laufwasserkraftwerk,Inn,DE,Bayern,50,,
+124,Weinzödl,Laufwasserkraftwerk,Mur,AT,Stmk,156,47.1091123,15.3860475
+125,Weissenegg,Laufwasserkraftwerk,Mur,AT,Stmk,8,46.91075555,15.494130634433859
+126,Werfen/Pfarrwerfen,Laufwasserkraftwerk,Salzach,AT,Sbg,160,47.4711583,13.1985498
+127,Werndorf-Neudorf,Wärmekraftwerk,,AT,Stmk,1640,46.90732585,15.484548801970302
+128,Weyer,Laufwasserkraftwerk,Enns,AT,OÖ,368,47.8572561,14.6635607
+129,Ybbs-Persenbeug,Laufwasserkraftwerk,Donau,AT,NÖ,2365,48.19098525,15.071003799999994

@@ -1,7 +1,7 @@
 [
     {
     "date" : "2021-10-08",
-    "text": "Cold European winter and<br>low storage capacities. On top of that, slow wind speeds and dry conditions weighed on renewables’ energy output.",
+    "text": "Cold European winter and<br>low storage capacities.<br>Slow wind speeds and dry conditions<br>weighed on renewables’ energy output",
 	"priority" : "2",
 	"source" : "https://www.cnbc.com/2021/10/08/natural-gas-prices-are-skyrocketing-globally-what-it-means-for-the-us.html"
     },
@@ -10,6 +10,16 @@
     "text": "Russian invasion <br>of Ukraine",
 	"priority" : "1"
     },
+	{
+    "date" : "2022-03-08",
+    "text": "European Comission<br>presents REPowerEU",
+	"priority" : "1",
+	"source" : "https://www.bundeskanzleramt.gv.at/themen/europa-aktuell/2022/repowereu-neuer-plan-zur-verminderung-der-abhaengigkeit-von-russischem-gas.html"
+    },
+	{
+    "date" : "2022-03-23",
+    "text": "European Comission proposes<br>legisation on security of<br>gas supply",
+	"priority" : "1"},
 	{
     "date" : "2022-03-23",
     "text": "Russia demands gas <br>payments settled in rubel",
@@ -21,9 +31,34 @@
 	"source" : "https://en.wikipedia.org/wiki/2022_Russia%E2%80%93European_Union_gas_dispute",
 	"priority" : "2"
 	},
+	    {
+    "date" : "2022-06-23",
+    "text": "New regulation that <br>gas storagesites must be<br>filled to at least<br>80% of their capacity by<br>Nov. 1, 2022",
+	"priority" : "1",
+	"source" : "https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/natural-gas/062722-eu-council-adopts-new-minimum-gas-storage-rules-in-final-step-of-approval#:~:text=The%20new%20regulation%20provides%20that,in%202022%2C%20the%20Council%20said."
+    },
     {
     "date" : "2022-09-26",
     "text": "Nordstream 2 <br>Explosion",
 	"priority" : "1"
-    }
+    },
+    {
+    "date" : "2022-12-05",
+    "text": "G7 agrees on oil price <br>cap on Russion oil",
+	"long_text": "The $60 price is higher than the level at which Russia currently sells its crude oil — which is trading at a discount to benchmark prices. That gives Putin room to dismiss the West's move as meaningless. He has threatened to cut production, which could drive up global oil prices, and to not supply countries that sign up to the cap.",
+	"priority" : "1",
+	"source" : "https://www.politico.eu/article/eu-agrees-russian-oil-price-cap-after-poland-backs-plan/"
+    },
+	{
+    "date" : "2022-12-12",
+    "text": "China veränder derzeit seine Beschaffungsstrategie<br>Die Volksrepublik kaufe weniger am Sportmarkt<br>ein und schließe stattdessen zusätzliche Langfristverträge für LNG mit Laufzeiten von zehn Jahren oder länger ab.",
+	"priority" : "2",
+	"source" : "https://www.energate-messenger.de/news/227380/iea-kaum-zusaetzliches-lng-angebot-im-kommenden-jahr#:~:text=Prognose%20IEA%3A%20Kaum%20zus%C3%A4tzliches%20LNG%2DAngebot%20im%20kommenden%20Jahr&text=Berlin%20(energate)%20%2D%20Im%20kommenden,lediglich%20um%20gut%2020%20Mrd."
+	},
+	{
+    "date" : "2022-12-13",
+    "text": "EU Parlament discussions<br>on Gas price cap.",
+	"priority" : "1",
+	"source" : ""
+	}
 ]
