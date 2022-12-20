@@ -43,6 +43,11 @@
 	"priority" : "1"
     },
     {
+    "date" : "2022-10-28",
+    "text": "EU beschließt aus <br>für Neuwagen mit <br>Verbrennungsmotor ab 2035",
+	"priority" : "2"
+    },
+    {
     "date" : "2022-12-05",
     "text": "G7 agrees on oil price <br>cap on Russion oil",
 	"long_text": "The $60 price is higher than the level at which Russia currently sells its crude oil — which is trading at a discount to benchmark prices. That gives Putin room to dismiss the West's move as meaningless. He has threatened to cut production, which could drive up global oil prices, and to not supply countries that sign up to the cap.",
@@ -60,5 +65,26 @@
     "text": "EU Parlament discussions<br>on Gas price cap.",
 	"priority" : "1",
 	"source" : ""
+	},
+	{
+    "date" : "2022-12-19",
+    "text": "EU decides on gas price cap of 180€/MWh",
+	"priority" : "1",
+	"source" : ""
+	},
+	{
+    "date" : "2023-04-23",
+    "text": "Salzburger Landtagswahl",
+	"priority" : "2"
+	},
+	{
+    "date" : "2023-01-01",
+    "text": "Es darf in Neubauten in Österreich keine Gasheizung mehr errichtet werden",
+	"priority" : "2"
+	},
+	{
+    "date" : "2035-01-01",
+    "text": "Aus für Neuwagen mit Verbrennungsmotor",
+	"priority" : "2"
 	}
 ]
