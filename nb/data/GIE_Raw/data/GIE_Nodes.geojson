@@ -1,0 +1,5249 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge LNG Terminal",
+                "id": "GIE_N_0",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001006T",
+                    "elevation_m": 1,
+                    "exact": 2,
+                    "facility_code": "21W0000000001245",
+                    "name_short": "Zeebrugge",
+                    "nuts_id_1": "BE2",
+                    "nuts_id_2": "BE25",
+                    "nuts_id_3": "BE251"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.09473,
+                    43.3612
+                ]
+            },
+            "properties": {
+                "name": "Bilbao LNG Terminal",
+                "id": "GIE_N_1",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001352A",
+                    "elevation_m": 101,
+                    "exact": 2,
+                    "facility_code": "21W0000000000362",
+                    "name_short": "Bilbao",
+                    "nuts_id_1": "ES2",
+                    "nuts_id_2": "ES21",
+                    "nuts_id_3": "ES213"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174,
+                    41.398
+                ]
+            },
+            "properties": {
+                "name": "Barcelona LNG Terminal",
+                "id": "GIE_N_2",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "elevation_m": 59,
+                    "exact": 2,
+                    "facility_code": "21W000000000039X",
+                    "name_short": "Barcelona",
+                    "nuts_id_1": "ES5",
+                    "nuts_id_2": "ES51",
+                    "nuts_id_3": "ES511"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.998,
+                    37.624
+                ]
+            },
+            "properties": {
+                "name": "Cartagena LNG Terminal",
+                "id": "GIE_N_3",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "elevation_m": 21,
+                    "exact": 2,
+                    "facility_code": "21W000000000038Z",
+                    "name_short": "Cartagena",
+                    "nuts_id_1": "ES6",
+                    "nuts_id_2": "ES62",
+                    "nuts_id_3": "ES620"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9508,
+                    37.2583
+                ]
+            },
+            "properties": {
+                "name": "Huelva LNG Terminal",
+                "id": "GIE_N_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "elevation_m": 16,
+                    "exact": 1,
+                    "facility_code": "21W0000000000370",
+                    "name_short": "Huelva",
+                    "nuts_id_1": "ES6",
+                    "nuts_id_2": "ES61",
+                    "nuts_id_3": "ES615"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2344,
+                    39.6426
+                ]
+            },
+            "properties": {
+                "name": "Sagunto LNG Terminal",
+                "id": "GIE_N_5",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "18XTGPRS-12345-G",
+                    "elevation_m": 45,
+                    "exact": 1,
+                    "facility_code": "21W0000000000354",
+                    "name_short": "Sagunto",
+                    "nuts_id_1": "ES5",
+                    "nuts_id_2": "ES52",
+                    "nuts_id_3": "ES523"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.253,
+                    43.4578
+                ]
+            },
+            "properties": {
+                "name": "Mugardos LNG Terminal",
+                "id": "GIE_N_6",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "18XRGNSA-12345-V",
+                    "elevation_m": 42,
+                    "exact": 2,
+                    "facility_code": "21W0000000000338",
+                    "name_short": "Mugardos",
+                    "nuts_id_1": "ES1",
+                    "nuts_id_2": "ES11",
+                    "nuts_id_3": "ES111"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.85167,
+                    43.454
+                ]
+            },
+            "properties": {
+                "name": "Fos Tonkin LNG Terminal",
+                "id": "GIE_N_7",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010679",
+                    "elevation_m": 3,
+                    "exact": 1,
+                    "facility_code": "63W179356656691A",
+                    "name_short": "FosTonkin",
+                    "nuts_id_1": "FRL",
+                    "nuts_id_2": "FRL0",
+                    "nuts_id_3": "FRL04"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.14,
+                    47.32
+                ]
+            },
+            "properties": {
+                "name": "Montoir de Bretagne LNG Terminal",
+                "id": "GIE_N_8",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010679",
+                    "elevation_m": 3,
+                    "exact": 2,
+                    "facility_code": "63W631527814486R",
+                    "name_short": "MontoirDeBretagne",
+                    "nuts_id_1": "FRG",
+                    "nuts_id_2": "FRG0",
+                    "nuts_id_3": "FRG01"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.194792,
+                    51.033134
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque LNG Terminal",
+                "id": "GIE_N_9",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001331I",
+                    "elevation_m": 1,
+                    "exact": 1,
+                    "facility_code": "21W0000000000451",
+                    "name_short": "Dunkerque",
+                    "nuts_id_1": "FRE",
+                    "nuts_id_2": "FRE1",
+                    "nuts_id_3": "FRE11"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89863,
+                    43.42239
+                ]
+            },
+            "properties": {
+                "name": "Fos Cavaou LNG Terminal",
+                "id": "GIE_N_10",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001070K",
+                    "elevation_m": 2,
+                    "exact": 1,
+                    "facility_code": "63W943693783886F",
+                    "name_short": "FosCavaou",
+                    "nuts_id_1": "FRL",
+                    "nuts_id_2": "FRL0",
+                    "nuts_id_3": "FRL04"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.711,
+                    51.45
+                ]
+            },
+            "properties": {
+                "name": "Isle of Grain LNG Terminal",
+                "id": "GIE_N_11",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-GB-A-A0A0A-7",
+                    "elevation_m": 2,
+                    "exact": 4,
+                    "facility_code": "21W000000000099F",
+                    "name_short": "IsleofGrain",
+                    "nuts_id_1": "UKJ",
+                    "nuts_id_2": "UKJ4",
+                    "nuts_id_3": "UKJ41"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.078012,
+                    51.713781
+                ]
+            },
+            "properties": {
+                "name": "South Hook LNG Terminal",
+                "id": "GIE_N_12",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013554",
+                    "elevation_m": 38,
+                    "exact": 1,
+                    "facility_code": "21W0000000000419",
+                    "name_short": "SouthHook",
+                    "nuts_id_1": "UKL",
+                    "nuts_id_2": "UKL1",
+                    "nuts_id_3": "UKL14"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4023,
+                    37.96
+                ]
+            },
+            "properties": {
+                "name": "Revythoussa LNG Terminal",
+                "id": "GIE_N_13",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-GR-A-A0A0A-G",
+                    "elevation_m": 13,
+                    "exact": 2,
+                    "facility_code": "21W000000000040B",
+                    "name_short": "Revythoussa",
+                    "nuts_id_1": "GR",
+                    "nuts_id_2": "GR",
+                    "nuts_id_3": "GR"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.830632,
+                    44.073876
+                ]
+            },
+            "properties": {
+                "name": "Panigaglia LNG Terminal",
+                "id": "GIE_N_14",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "26X00000117915-0",
+                    "elevation_m": 0,
+                    "exact": 1,
+                    "facility_code": "59W0000000000011",
+                    "name_short": "Panigaglia",
+                    "nuts_id_1": "ITC",
+                    "nuts_id_2": "ITC3",
+                    "nuts_id_3": "ITC34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2808,
+                    43.548
+                ]
+            },
+            "properties": {
+                "name": "FSRU OLT Offshore LNG Toscana",
+                "id": "GIE_N_15",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001109G",
+                    "elevation_m": 4,
+                    "exact": 2,
+                    "facility_code": "21W0000000000443",
+                    "name_short": "Toscana",
+                    "nuts_id_1": "ITI",
+                    "nuts_id_2": "ITI1",
+                    "nuts_id_3": "ITI17"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36397,
+                    45.048836
+                ]
+            },
+            "properties": {
+                "name": "Porto Levante LNG Terminal",
+                "id": "GIE_N_16",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001360B",
+                    "elevation_m": -1,
+                    "exact": 2,
+                    "facility_code": "21W000000000082W",
+                    "name_short": "PortoLevante",
+                    "nuts_id_1": "ITH",
+                    "nuts_id_2": "ITH3",
+                    "nuts_id_3": "ITH37"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.151954,
+                    55.7252
+                ]
+            },
+            "properties": {
+                "name": "FSRU Independence",
+                "id": "GIE_N_17",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013740",
+                    "elevation_m": 16,
+                    "exact": 1,
+                    "facility_code": "21W0000000001253",
+                    "name_short": "Klaipeda",
+                    "nuts_id_1": "LT0",
+                    "nuts_id_2": "LT02",
+                    "nuts_id_3": "LT023"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5614,
+                    51.9536
+                ]
+            },
+            "properties": {
+                "name": "Rotterdam Gate Terminal",
+                "id": "GIE_N_18",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001063H",
+                    "elevation_m": -6,
+                    "exact": 1,
+                    "facility_code": "21W0000000000079",
+                    "name_short": "RotterdamGate",
+                    "nuts_id_1": "NL3",
+                    "nuts_id_2": "NL33",
+                    "nuts_id_3": "NL33C"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8048,
+                    37.9583
+                ]
+            },
+            "properties": {
+                "name": "Sines LNG Terminal",
+                "id": "GIE_N_20",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013619",
+                    "elevation_m": 38,
+                    "exact": 1,
+                    "facility_code": "16WTGNL01------O",
+                    "name_short": "Sines",
+                    "nuts_id_1": "PT1",
+                    "nuts_id_2": "PT18",
+                    "nuts_id_3": "PT181"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232375,
+                    47.9867
+                ]
+            },
+            "properties": {
+                "name": "UGS Haidach (astora)",
+                "id": "GIE_N_20",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "elevation_m": 562,
+                    "exact": 1,
+                    "facility_code": "21W000000000078N",
+                    "name_short": "Haidach",
+                    "nuts_id_1": "AT3",
+                    "nuts_id_2": "AT32",
+                    "nuts_id_3": "AT323"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232375,
+                    47.9867
+                ]
+            },
+            "properties": {
+                "name": "UGS Haidach (GSA)",
+                "id": "GIE_N_21",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "25X-GSALLC-----E",
+                    "elevation_m": 562,
+                    "exact": 1,
+                    "facility_code": "25W-SPHAID-GAZ-M",
+                    "name_short": "Haidach",
+                    "nuts_id_1": "AT3",
+                    "nuts_id_2": "AT32",
+                    "nuts_id_3": "AT323"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.778209,
+                    48.355222
+                ]
+            },
+            "properties": {
+                "name": "VGS OMV Gas Storage Pool (Tallesbrunn & Schoenkirchen / Reyersdorf)",
+                "id": "GIE_N_22",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "25X-OMVGASSTORA5",
+                    "elevation_m": 161,
+                    "exact": 1,
+                    "facility_code": "21W000000000081Y",
+                    "name_short": "Tallesbrunn",
+                    "nuts_id_1": "AT1",
+                    "nuts_id_2": "AT12",
+                    "nuts_id_3": "AT126"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312084,
+                    47.981978
+                ]
+            },
+            "properties": {
+                "name": "RAG Storage Pool (Puchkirchen / Haag, Aigelsbrunn, Haidach 5, Nussdorf / Zagling)",
+                "id": "GIE_N_23",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X----100225-1C",
+                    "elevation_m": 581,
+                    "exact": 1,
+                    "facility_code": "21W000000000079L",
+                    "name_short": "Haidach",
+                    "nuts_id_1": "AT3",
+                    "nuts_id_2": "AT32",
+                    "nuts_id_3": "AT323"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356863,
+                    47.962006
+                ]
+            },
+            "properties": {
+                "name": "UGS 7 Fields (Uniper Energy Storage) - AT",
+                "id": "GIE_N_24",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 633,
+                    "exact": 1,
+                    "facility_code": "21W000000000057V",
+                    "name_short": "7Fields",
+                    "nuts_id_1": "AT3",
+                    "nuts_id_2": "AT32",
+                    "nuts_id_3": "AT323"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703353,
+                    51.386993
+                ]
+            },
+            "properties": {
+                "name": "UGS Loenhout",
+                "id": "GIE_N_25",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-BE-A-A0A0A-Y",
+                    "elevation_m": 16,
+                    "exact": 1,
+                    "facility_code": "21Z000000000102A",
+                    "name_short": "Loenhout",
+                    "nuts_id_1": "BE2",
+                    "nuts_id_2": "BE21",
+                    "nuts_id_3": "BE211"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.592123,
+                    43.349887
+                ]
+            },
+            "properties": {
+                "name": "UGS Chiren",
+                "id": "GIE_N_26",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-BG-A-A0A0A-C",
+                    "elevation_m": 247,
+                    "exact": 1,
+                    "facility_code": "21W000000000031C",
+                    "name_short": "Chiren",
+                    "nuts_id_1": "BG3",
+                    "nuts_id_2": "BG31",
+                    "nuts_id_3": "BG313"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.609626,
+                    48.872481
+                ]
+            },
+            "properties": {
+                "name": "VGS Innogy Virtual Storage (Haje, Tranovice, Stramberk, Tvrdonice, Dolni Dunajovice, Lobodice)",
+                "id": "GIE_N_27",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "eic_code": "27XG-RWE-GAS-STI",
+                    "elevation_m": 218,
+                    "exact": 1,
+                    "facility_code": "21W000000000076R",
+                    "name_short": "Lobodice",
+                    "nuts_id_1": "CZ0",
+                    "nuts_id_2": "CZ06",
+                    "nuts_id_3": "CZ064"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.028471,
+                    48.871374
+                ]
+            },
+            "properties": {
+                "name": "UGS Dolni Bojanovice",
+                "id": "GIE_N_30",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "eic_code": "27X-SPPSTORAGE-R",
+                    "elevation_m": 181,
+                    "exact": 1,
+                    "facility_code": "21W000000000074V",
+                    "name_short": "DolniBojanovice",
+                    "nuts_id_1": "CZ0",
+                    "nuts_id_2": "CZ06",
+                    "nuts_id_3": "CZ064"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.388862,
+                    53.253484
+                ]
+            },
+            "properties": {
+                "name": "UGS Jemgum H (astora)",
+                "id": "GIE_N_31",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "elevation_m": -2,
+                    "exact": 1,
+                    "facility_code": "21W0000000001148",
+                    "name_short": "JemgumH",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94C"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493598,
+                    52.613673
+                ]
+            },
+            "properties": {
+                "name": "UGS Rehden",
+                "id": "GIE_N_32",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "elevation_m": 35,
+                    "exact": 1,
+                    "facility_code": "21Z000000000271O",
+                    "name_short": "Rehden",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE92",
+                    "nuts_id_3": "DE922"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.816447,
+                    48.042629
+                ]
+            },
+            "properties": {
+                "name": "UGS Wolfersberg",
+                "id": "GIE_N_34",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X0000000000151",
+                    "elevation_m": 570,
+                    "exact": 1,
+                    "facility_code": "21W0000000000184",
+                    "name_short": "Wolfersberg",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE21",
+                    "nuts_id_3": "DE218"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.224641,
+                    52.513276
+                ]
+            },
+            "properties": {
+                "name": "UGS Berlin",
+                "id": "GIE_N_35",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X0000000000224",
+                    "elevation_m": 41,
+                    "exact": 1,
+                    "facility_code": "21W0000000001083",
+                    "name_short": "Berlin",
+                    "nuts_id_1": "DE4",
+                    "nuts_id_2": "DE40",
+                    "nuts_id_3": "DE300"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228213,
+                    47.880871
+                ]
+            },
+            "properties": {
+                "name": "UGS Inzenham-West",
+                "id": "GIE_N_37",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011748",
+                    "elevation_m": 555,
+                    "exact": 3,
+                    "facility_code": "21W0000000000192",
+                    "name_short": "InzenhamWest",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE21",
+                    "nuts_id_3": "DE21K"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.18
+                ]
+            },
+            "properties": {
+                "name": "UGS Enschede - Epe (Eneco)",
+                "id": "GIE_N_38",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010849",
+                    "elevation_m": 40,
+                    "exact": 3,
+                    "facility_code": "21W000000000012G",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel EGL (Equinor Storage Deutschland)",
+                "id": "GIE_N_40",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001368W",
+                    "elevation_m": 5,
+                    "exact": 1,
+                    "facility_code": "21W000000000100J",
+                    "name_short": "Etzel",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94H"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.17
+                ]
+            },
+            "properties": {
+                "name": "UGS EWE-Zone L",
+                "id": "GIE_N_41",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "elevation_m": 41,
+                    "exact": 3,
+                    "facility_code": "21W0000000001075",
+                    "name_short": "Nuettermoor",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.417349,
+                    53.259121
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor H aggregated data prior to 7 April 2016",
+                "id": "GIE_N_43",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "elevation_m": -2,
+                    "exact": 1,
+                    "facility_code": "PRIOR_EWE_000001",
+                    "name_short": "Nuettermoor",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94C"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41736,
+                    53.25913
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor L GUD",
+                "id": "GIE_N_47",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "elevation_m": -2,
+                    "exact": 1,
+                    "facility_code": "21W0000000001067",
+                    "name_short": "NuettermoorL",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94C"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.780083,
+                    52.478855
+                ]
+            },
+            "properties": {
+                "name": "UGS Ruedersdorf H",
+                "id": "GIE_N_48",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "elevation_m": 49,
+                    "exact": 2,
+                    "facility_code": "21W000000000048W",
+                    "name_short": "RuedersdorfH",
+                    "nuts_id_1": "DE4",
+                    "nuts_id_2": "DE40",
+                    "nuts_id_3": "DE409"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.360765,
+                    53.422766
+                ]
+            },
+            "properties": {
+                "name": "UGS Kraak",
+                "id": "GIE_N_52",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013805",
+                    "elevation_m": 32,
+                    "exact": 2,
+                    "facility_code": "21W000000000020H",
+                    "name_short": "Kraak",
+                    "nuts_id_1": "DE8",
+                    "nuts_id_2": "DE80",
+                    "nuts_id_3": "DE80O"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0,
+                    52.175948
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe IGSNWE H Gas (historical data prior to 1 April 2017)",
+                "id": "GIE_N_53",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "elevation_m": 40,
+                    "exact": 3,
+                    "facility_code": "21W0000000000524",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe IGSNWE L Gas",
+                "id": "GIE_N_54",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "elevation_m": 43,
+                    "exact": 3,
+                    "facility_code": "21W0000000000532",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555702,
+                    51.891723
+                ]
+            },
+            "properties": {
+                "name": "UGS Stassfurt",
+                "id": "GIE_N_57",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "elevation_m": 93,
+                    "exact": 1,
+                    "facility_code": "21W0000000000265",
+                    "name_short": "Stassfurt",
+                    "nuts_id_1": "DEE",
+                    "nuts_id_2": "DEE0",
+                    "nuts_id_3": "DEE0C"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.426365,
+                    51.663755
+                ]
+            },
+            "properties": {
+                "name": "UGS Xanten (historical data prior to 1 April 2017)",
+                "id": "GIE_N_58",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "elevation_m": 22,
+                    "exact": 1,
+                    "facility_code": "21W0000000000516",
+                    "name_short": "Xanten",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA1",
+                    "nuts_id_3": "DEA1F"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.344795,
+                    53.845027
+                ]
+            },
+            "properties": {
+                "name": "VGS innEXpool",
+                "id": "GIE_N_59",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "elevation_m": 0,
+                    "exact": 3,
+                    "facility_code": "21W000000000121B",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94H"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe (KGE)",
+                "id": "GIE_N_60",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001140P",
+                    "elevation_m": 46,
+                    "exact": 3,
+                    "facility_code": "21W000000000097J",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.554382,
+                    49.7458
+                ]
+            },
+            "properties": {
+                "name": "UGS Haehnlein (historical data prior to 01/04/2016)",
+                "id": "GIE_N_61",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000042Z",
+                    "elevation_m": 102,
+                    "exact": 1,
+                    "facility_code": "21W000000000064Y",
+                    "name_short": "Haehnlein",
+                    "nuts_id_1": "DE7",
+                    "nuts_id_2": "DE71",
+                    "nuts_id_3": "DE717"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.484942,
+                    49.822999
+                ]
+            },
+            "properties": {
+                "name": "UGS Stockstadt (historical data prior to 01/04/2016)",
+                "id": "GIE_N_62",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000042Z",
+                    "elevation_m": 95,
+                    "exact": 1,
+                    "facility_code": "21W0000000000621",
+                    "name_short": "Stockstadt",
+                    "nuts_id_1": "DE7",
+                    "nuts_id_2": "DE71",
+                    "nuts_id_3": "DE717"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1267,
+                    54.3275
+                ]
+            },
+            "properties": {
+                "name": "UGS Kiel-Roenne (Stadtwerke Kiel)",
+                "id": "GIE_N_68",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000051Y",
+                    "elevation_m": 21,
+                    "exact": 1,
+                    "facility_code": "21W0000000001164",
+                    "name_short": "KielRoenne",
+                    "nuts_id_1": "DEF",
+                    "nuts_id_2": "DEF0",
+                    "nuts_id_3": "DEF02"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.718167,
+                    53.160905
+                ]
+            },
+            "properties": {
+                "name": "UGS Bremen-Lesum (Storengy Deutschland)",
+                "id": "GIE_N_69",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 7,
+                    "exact": 1,
+                    "facility_code": "21W000000000090X",
+                    "name_short": "BremenLesum",
+                    "nuts_id_1": "DE5",
+                    "nuts_id_2": "DE50",
+                    "nuts_id_3": "DE501"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.414961,
+                    47.851208
+                ]
+            },
+            "properties": {
+                "name": "UGS Fronhofen-Trigonodus",
+                "id": "GIE_N_70",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 643,
+                    "exact": 1,
+                    "facility_code": "21W000000000091V",
+                    "name_short": "FronhofenTrigonodus",
+                    "nuts_id_1": "DE1",
+                    "nuts_id_2": "DE14",
+                    "nuts_id_3": "DE148"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.482867,
+                    53.435469
+                ]
+            },
+            "properties": {
+                "name": "UGS Harsefeld",
+                "id": "GIE_N_71",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 40,
+                    "exact": 1,
+                    "facility_code": "21W000000000092T",
+                    "name_short": "Harsefeld",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE93",
+                    "nuts_id_3": "DE939"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.942675,
+                    52.801137
+                ]
+            },
+            "properties": {
+                "name": "UGS Peckensen",
+                "id": "GIE_N_72",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 47,
+                    "exact": 1,
+                    "facility_code": "21W0000000000273",
+                    "name_short": "Peckensen",
+                    "nuts_id_1": "DEE",
+                    "nuts_id_2": "DEE0",
+                    "nuts_id_3": "DEE04"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.039466,
+                    47.915177
+                ]
+            },
+            "properties": {
+                "name": "UGS Schmidthausen",
+                "id": "GIE_N_73",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 486,
+                    "exact": 1,
+                    "facility_code": "21W000000000089I",
+                    "name_short": "Schmidthausen",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE21",
+                    "nuts_id_3": "DE21K"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.829442,
+                    52.504885
+                ]
+            },
+            "properties": {
+                "name": "UGS Uelsen",
+                "id": "GIE_N_74",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "elevation_m": 41,
+                    "exact": 1,
+                    "facility_code": "21W000000000093R",
+                    "name_short": "Uelsen",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE94B"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.702464,
+                    51.219587
+                ]
+            },
+            "properties": {
+                "name": "UGS Allmenhausen",
+                "id": "GIE_N_76",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001307F",
+                    "elevation_m": 254,
+                    "exact": 1,
+                    "facility_code": "21W000000000030E",
+                    "name_short": "Allmenhausen",
+                    "nuts_id_1": "DEG",
+                    "nuts_id_2": "DEG0",
+                    "nuts_id_3": "DEG09"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Trianel",
+                "id": "GIE_N_77",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001310Q",
+                    "elevation_m": 41,
+                    "exact": 2,
+                    "facility_code": "21W000000000085Q",
+                    "name_short": "Epe",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.402956,
+                    48.127548
+                ]
+            },
+            "properties": {
+                "name": "UGS Bierwang",
+                "id": "GIE_N_78",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 507,
+                    "exact": 1,
+                    "facility_code": "21W0000000000613",
+                    "name_short": "Bierwang",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE21",
+                    "nuts_id_3": "DE21G"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.433821,
+                    47.922265
+                ]
+            },
+            "properties": {
+                "name": "UGS Breitbrunn",
+                "id": "GIE_N_79",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 550,
+                    "exact": 1,
+                    "facility_code": "21W0000000000605",
+                    "name_short": "Breitbrunn",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE21",
+                    "nuts_id_3": "DE21K"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.177
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Uniper H-Gas",
+                "id": "GIE_N_80",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 43,
+                    "exact": 3,
+                    "facility_code": "21W000000000066U",
+                    "name_short": "EpeH",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.178
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Uniper L-Gas",
+                "id": "GIE_N_81",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 43,
+                    "exact": 3,
+                    "facility_code": "21W000000000065W",
+                    "name_short": "EpeL",
+                    "nuts_id_1": "DEA",
+                    "nuts_id_2": "DEA3",
+                    "nuts_id_3": "DEA34"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6307,
+                    49.5845
+                ]
+            },
+            "properties": {
+                "name": "UGS Eschenfelden",
+                "id": "GIE_N_82",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 513,
+                    "exact": 1,
+                    "facility_code": "21W000000000083U",
+                    "name_short": "Eschenfelden",
+                    "nuts_id_1": "DE2",
+                    "nuts_id_2": "DE23",
+                    "nuts_id_3": "DE234"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.065929,
+                    53.36059
+                ]
+            },
+            "properties": {
+                "name": "UGS Krummhorn",
+                "id": "GIE_N_85",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "elevation_m": 0,
+                    "exact": 1,
+                    "facility_code": "21W000000000067S",
+                    "name_short": "Krummhorn",
+                    "nuts_id_1": "DE9",
+                    "nuts_id_2": "DE94",
+                    "nuts_id_3": "DE947"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75,
+                    51.219587
+                ]
+            },
+            "properties": {
+                "name": "UGS Kirchheiligen",
+                "id": "GIE_N_87",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001138C",
+                    "elevation_m": 248,
+                    "exact": 2,
+                    "facility_code": "21W000000000023B",
+                    "name_short": "Kirchheiligen",
+                    "nuts_id_1": "DEG",
+                    "nuts_id_2": "DEG0",
+                    "nuts_id_3": "DEG09"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.833526,
+                    51.430367
+                ]
+            },
+            "properties": {
+                "name": "VGS Storage Hub (Bernburg, Bad Lauchstaedt)",
+                "id": "GIE_N_88",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001138C",
+                    "elevation_m": 131,
+                    "exact": 1,
+                    "facility_code": "21W0000000000427",
+                    "name_short": "Bernburg",
+                    "nuts_id_1": "DEE",
+                    "nuts_id_2": "DEE0",
+                    "nuts_id_3": "DEE0B"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41462,
+                    56.640401
+                ]
+            },
+            "properties": {
+                "name": "VGS GSD Gas Storage (Lille Torup, Stenlille)",
+                "id": "GIE_N_89",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001104T",
+                    "elevation_m": 23,
+                    "exact": 1,
+                    "facility_code": "45W000000000112V",
+                    "name_short": "LilleTorup",
+                    "nuts_id_1": "DK0",
+                    "nuts_id_2": "DK04",
+                    "nuts_id_3": "DK041"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.366233,
+                    37.067092
+                ]
+            },
+            "properties": {
+                "name": "VGS Enagas Basic Underground Storage (Serrablo, Yela, Gaviota, Marismas)",
+                "id": "GIE_N_90",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013368",
+                    "elevation_m": 6,
+                    "exact": 2,
+                    "facility_code": "21W000000000032A",
+                    "name_short": "Marismas",
+                    "nuts_id_1": "ES6",
+                    "nuts_id_2": "ES61",
+                    "nuts_id_3": "ES618"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.756336,
+                    43.868812
+                ]
+            },
+            "properties": {
+                "name": "VGS SALINE (Tersanne, Etrez, Manosque)",
+                "id": "GIE_N_91",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "elevation_m": 424,
+                    "exact": 1,
+                    "facility_code": "21W000000000084S",
+                    "name_short": "Etrez",
+                    "nuts_id_1": "FRL",
+                    "nuts_id_2": "FRL0",
+                    "nuts_id_3": "FRL01"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.873865,
+                    48.844032
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE (Saint-Illiers, Beynes Superieur, Beynes Profond)",
+                "id": "GIE_N_92",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "elevation_m": 154,
+                    "exact": 1,
+                    "facility_code": "21W0000000000710",
+                    "name_short": "BeynesProfond",
+                    "nuts_id_1": "FR1",
+                    "nuts_id_2": "FR10",
+                    "nuts_id_3": "FR103"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699989,
+                    49.526019
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE B (Gournay-sur-Aronde)",
+                "id": "GIE_N_93",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "elevation_m": 92,
+                    "exact": 1,
+                    "facility_code": "21W0000000000702",
+                    "name_short": "GournaySurAronde",
+                    "nuts_id_1": "FRE",
+                    "nuts_id_2": "FRE2",
+                    "nuts_id_3": "FRE22"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.486212,
+                    47.387853
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE LITTORAL (Chemery, Cere-la-Ronde, Soings-en-Sologne)",
+                "id": "GIE_N_94",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "elevation_m": 109,
+                    "exact": 1,
+                    "facility_code": "21W000000000072Z",
+                    "name_short": "Chemery",
+                    "nuts_id_1": "FRB",
+                    "nuts_id_2": "FRB0",
+                    "nuts_id_3": "FRB05"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.298375,
+                    48.707076
+                ]
+            },
+            "properties": {
+                "name": "VGS SERENE NORD (Trois Fontaines l\u0092Abbaye, Cerville, Germiny-sous-Coulombs, Saint-Clair-sur-Epte)",
+                "id": "GIE_N_95",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "elevation_m": 235,
+                    "exact": 1,
+                    "facility_code": "21W000000000073X",
+                    "name_short": "Cerville",
+                    "nuts_id_1": "FRF",
+                    "nuts_id_2": "FRF3",
+                    "nuts_id_3": "FRF31"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.220066,
+                    43.780448
+                ]
+            },
+            "properties": {
+                "name": "VGS Lussagnet (TEREGA)",
+                "id": "GIE_N_97",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-FR-B-A0A0A-J",
+                    "elevation_m": 122,
+                    "exact": 1,
+                    "facility_code": "21W000000000068Q",
+                    "name_short": "Lussagnet",
+                    "nuts_id_1": "FRI",
+                    "nuts_id_2": "FRI1",
+                    "nuts_id_3": "FRI13"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.010382,
+                    51.194305
+                ]
+            },
+            "properties": {
+                "name": "UGS Humbly Grove",
+                "id": "GIE_N_99",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "55XHUMBLYGROVE1H",
+                    "elevation_m": 130,
+                    "exact": 1,
+                    "facility_code": "55WHUMBLY1GROVER",
+                    "name_short": "HumblyGrove",
+                    "nuts_id_1": "UKJ",
+                    "nuts_id_2": "UKJ3",
+                    "nuts_id_3": "UKJ37"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.087273,
+                    53.813895
+                ]
+            },
+            "properties": {
+                "name": "UGS Aldbrough I",
+                "id": "GIE_N_101",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X--140207-SSE9",
+                    "elevation_m": 6,
+                    "exact": 1,
+                    "facility_code": "55WALDBOROUGH00H",
+                    "name_short": "AldbroughI",
+                    "nuts_id_1": "UKE",
+                    "nuts_id_2": "UKE1",
+                    "nuts_id_3": "UKE12"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.207479,
+                    53.946533
+                ]
+            },
+            "properties": {
+                "name": "UGS Atwick",
+                "id": "GIE_N_102",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X--140207-SSE9",
+                    "elevation_m": 1,
+                    "exact": 1,
+                    "facility_code": "55WATWICK-SSE00J",
+                    "name_short": "Atwick",
+                    "nuts_id_1": "UKE",
+                    "nuts_id_2": "UKE1",
+                    "nuts_id_3": "UKE12"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.435024,
+                    53.234065
+                ]
+            },
+            "properties": {
+                "name": "UGS Stublach",
+                "id": "GIE_N_103",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "48XSTORENGYUK01P",
+                    "elevation_m": 41,
+                    "exact": 1,
+                    "facility_code": "21W000000000101H",
+                    "name_short": "Stublach",
+                    "nuts_id_1": "UKD",
+                    "nuts_id_2": "UKD6",
+                    "nuts_id_3": "UKD63"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.405628,
+                    53.225722
+                ]
+            },
+            "properties": {
+                "name": "UGS Holford",
+                "id": "GIE_N_104",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013716",
+                    "elevation_m": 48,
+                    "exact": 1,
+                    "facility_code": "21W000000000112C",
+                    "name_short": "Holford",
+                    "nuts_id_1": "UKD",
+                    "nuts_id_2": "UKD6",
+                    "nuts_id_3": "UKD63"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.520556,
+                    45.59451
+                ]
+            },
+            "properties": {
+                "name": "UGS Okoli",
+                "id": "GIE_N_105",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "eic_code": "31X-PSP-OSS-HR-D",
+                    "elevation_m": 98,
+                    "exact": 1,
+                    "facility_code": "21W000000000077P",
+                    "name_short": "Okoli",
+                    "nuts_id_1": "HR0",
+                    "nuts_id_2": "HR04",
+                    "nuts_id_3": "HR04E"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.366312,
+                    47.507335
+                ]
+            },
+            "properties": {
+                "name": "VGS MFGT (Pusztaederics, Zsana-Nord, Kardoskut-Pusztaszolos, Hajduszoboszlo)",
+                "id": "GIE_N_106",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013635",
+                    "elevation_m": 100,
+                    "exact": 1,
+                    "facility_code": "21W000000000087M",
+                    "name_short": "Hajduszoboszlo",
+                    "nuts_id_1": "HU3",
+                    "nuts_id_2": "HU32",
+                    "nuts_id_3": "HU321"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.194969,
+                    46.302801
+                ]
+            },
+            "properties": {
+                "name": "UGS Szoereg-1",
+                "id": "GIE_N_107",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013643",
+                    "elevation_m": 75,
+                    "exact": 1,
+                    "facility_code": "21W000000000086O",
+                    "name_short": "Szoereg1",
+                    "nuts_id_1": "HU3",
+                    "nuts_id_2": "HU33",
+                    "nuts_id_3": "HU333"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93,
+                    44.3
+                ]
+            },
+            "properties": {
+                "name": "VGS Edison Stoccaggio (Collalto, Cellino, San Potito & Cotignola)",
+                "id": "GIE_N_109",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013651",
+                    "elevation_m": 41,
+                    "exact": 3,
+                    "facility_code": "21W000000000095N",
+                    "name_short": "Cellino",
+                    "nuts_id_1": "ITH",
+                    "nuts_id_2": "ITH5",
+                    "nuts_id_3": "ITH57"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.462563,
+                    45.287745
+                ]
+            },
+            "properties": {
+                "name": "UGS Cornegliano",
+                "id": "GIE_N_110",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "59X4-IGSTORAGE-T",
+                    "elevation_m": 70,
+                    "exact": 1,
+                    "facility_code": "59W-IGSTORAGE-0Q",
+                    "name_short": "Cornegliano",
+                    "nuts_id_1": "ITC",
+                    "nuts_id_2": "ITC4",
+                    "nuts_id_3": "ITC49"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920891,
+                    44.991076
+                ]
+            },
+            "properties": {
+                "name": "VGS STOGIT (Fiume Treste, Bordolano, Sabbioncello, Minerbio, Sergnano, Ripalta, Cortemaggiore, Brugherio, Settala)",
+                "id": "GIE_N_111",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001250I",
+                    "elevation_m": 51,
+                    "exact": 1,
+                    "facility_code": "21Z000000000274I",
+                    "name_short": "Bordolano",
+                    "nuts_id_1": "ITH",
+                    "nuts_id_2": "ITH5",
+                    "nuts_id_3": "ITH51"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.696409,
+                    57.169567
+                ]
+            },
+            "properties": {
+                "name": "UGS Incukalns",
+                "id": "GIE_N_112",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001379R",
+                    "elevation_m": 49,
+                    "exact": 1,
+                    "facility_code": "21W000000000113A",
+                    "name_short": "Incukalns",
+                    "nuts_id_1": "LV0",
+                    "nuts_id_2": "LV00",
+                    "nuts_id_3": "LV007"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7,
+                    51.8
+                ]
+            },
+            "properties": {
+                "name": "UGS EnergyStock",
+                "id": "GIE_N_113",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001057C",
+                    "elevation_m": 10,
+                    "exact": 5,
+                    "facility_code": "21W000000000006B",
+                    "name_short": "EnergyStock",
+                    "nuts_id_1": "NL2",
+                    "nuts_id_2": "NL22",
+                    "nuts_id_3": "NL226"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.31028,
+                    53.278554
+                ]
+            },
+            "properties": {
+                "name": "UGS Grijpskerk",
+                "id": "GIE_N_114",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001075A",
+                    "elevation_m": -3,
+                    "exact": 1,
+                    "facility_code": "21W000000000001L",
+                    "name_short": "Grijpskerk",
+                    "nuts_id_1": "NL1",
+                    "nuts_id_2": "NL11",
+                    "nuts_id_3": "NL113"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.430666,
+                    53.090774
+                ]
+            },
+            "properties": {
+                "name": "UGS Norg (Langelo)",
+                "id": "GIE_N_115",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001075A",
+                    "elevation_m": 3,
+                    "exact": 1,
+                    "facility_code": "21W000000000015A",
+                    "name_short": "Norg",
+                    "nuts_id_1": "NL1",
+                    "nuts_id_2": "NL13",
+                    "nuts_id_3": "NL131"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744591,
+                    52.639238
+                ]
+            },
+            "properties": {
+                "name": "UGS Bergermeer",
+                "id": "GIE_N_116",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001120V",
+                    "elevation_m": 0,
+                    "exact": 2,
+                    "facility_code": "21W0000000000087",
+                    "name_short": "Bergermeer",
+                    "nuts_id_1": "NL3",
+                    "nuts_id_2": "NL32",
+                    "nuts_id_3": "NL328"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.716946,
+                    52.650953
+                ]
+            },
+            "properties": {
+                "name": "UGS Alkmaar",
+                "id": "GIE_N_117",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013732",
+                    "elevation_m": 0,
+                    "exact": 1,
+                    "facility_code": "21W000000000002J",
+                    "name_short": "Alkmaar",
+                    "nuts_id_1": "NL3",
+                    "nuts_id_2": "NL32",
+                    "nuts_id_3": "NL328"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.306302,
+                    51.475463
+                ]
+            },
+            "properties": {
+                "name": "UGS Wierzchowice",
+                "id": "GIE_N_119",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "elevation_m": 114,
+                    "exact": 1,
+                    "facility_code": "21Z000000000381H",
+                    "name_short": "Wierzchowice",
+                    "nuts_id_1": "PL5",
+                    "nuts_id_2": "PL51",
+                    "nuts_id_3": "PL518"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.454148,
+                    54.606362
+                ]
+            },
+            "properties": {
+                "name": "VGS GIM Kawerna (Kosakowo, Mogilno)",
+                "id": "GIE_N_120",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "elevation_m": 51,
+                    "exact": 1,
+                    "facility_code": "21Z000000000383D",
+                    "name_short": "Mogilno",
+                    "nuts_id_1": "PL6",
+                    "nuts_id_2": "PL63",
+                    "nuts_id_3": "PL634"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.072274,
+                    49.62671
+                ]
+            },
+            "properties": {
+                "name": "VGS GIM Sanok (Brzeznica, Husow, Strachocina, Swarzow)",
+                "id": "GIE_N_121",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "elevation_m": 301,
+                    "exact": 1,
+                    "facility_code": "21Z000000000382F",
+                    "name_short": "Brzeznica",
+                    "nuts_id_1": "PL8",
+                    "nuts_id_2": "PL82",
+                    "nuts_id_3": "PL821"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.85463,
+                    39.983508
+                ]
+            },
+            "properties": {
+                "name": "UGS Carrico",
+                "id": "GIE_N_122",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013627",
+                    "elevation_m": 41,
+                    "exact": 1,
+                    "facility_code": "16ZAS01--------8",
+                    "name_short": "Carrico",
+                    "nuts_id_1": "PT1",
+                    "nuts_id_2": "PT16",
+                    "nuts_id_3": "PT16F"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.553105,
+                    46.565927
+                ]
+            },
+            "properties": {
+                "name": "UGS Targu Mures",
+                "id": "GIE_N_123",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001300T",
+                    "elevation_m": 420,
+                    "exact": 2,
+                    "facility_code": "21Z000000000309P",
+                    "name_short": "TarguMures",
+                    "nuts_id_1": "RO1",
+                    "nuts_id_2": "RO12",
+                    "nuts_id_3": "RO125"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.310924,
+                    44.389969
+                ]
+            },
+            "properties": {
+                "name": "UGS Balaceanca",
+                "id": "GIE_N_124",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 68,
+                    "exact": 1,
+                    "facility_code": "21Z0000000003111",
+                    "name_short": "Balaceanca",
+                    "nuts_id_1": "RO3",
+                    "nuts_id_2": "RO31",
+                    "nuts_id_3": "RO322"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.775177,
+                    44.690654
+                ]
+            },
+            "properties": {
+                "name": "UGS Bilciuresti",
+                "id": "GIE_N_125",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 144,
+                    "exact": 1,
+                    "facility_code": "21Z000000000313Y",
+                    "name_short": "Bilciuresti",
+                    "nuts_id_1": "RO3",
+                    "nuts_id_2": "RO31",
+                    "nuts_id_3": "RO313"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.208115,
+                    46.23695
+                ]
+            },
+            "properties": {
+                "name": "UGS Cetatea de Balta",
+                "id": "GIE_N_126",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 372,
+                    "exact": 1,
+                    "facility_code": "21Z000000000316S",
+                    "name_short": "CetateadeBalta",
+                    "nuts_id_1": "RO1",
+                    "nuts_id_2": "RO12",
+                    "nuts_id_3": "RO121"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.886504,
+                    44.352658
+                ]
+            },
+            "properties": {
+                "name": "UGS Ghercesti",
+                "id": "GIE_N_127",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 174,
+                    "exact": 2,
+                    "facility_code": "21Z000000000315U",
+                    "name_short": "Ghercesti",
+                    "nuts_id_1": "RO4",
+                    "nuts_id_2": "RO41",
+                    "nuts_id_3": "RO411"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.183885,
+                    46.782414
+                ]
+            },
+            "properties": {
+                "name": "UGS Sarma?el",
+                "id": "GIE_N_128",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 378,
+                    "exact": 1,
+                    "facility_code": "21Z000000000314W",
+                    "name_short": "Sarmael",
+                    "nuts_id_1": "RO1",
+                    "nuts_id_2": "RO12",
+                    "nuts_id_3": "RO125"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.60623,
+                    44.720131
+                ]
+            },
+            "properties": {
+                "name": "UGS Urziceni",
+                "id": "GIE_N_129",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "elevation_m": 55,
+                    "exact": 1,
+                    "facility_code": "21Z0000000003103",
+                    "name_short": "Urziceni",
+                    "nuts_id_1": "RO3",
+                    "nuts_id_2": "RO31",
+                    "nuts_id_3": "RO315"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863828,
+                    56.798359
+                ]
+            },
+            "properties": {
+                "name": "UGS Skallen",
+                "id": "GIE_N_130",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-SE-A-A0A0A-F",
+                    "elevation_m": 105,
+                    "exact": 2,
+                    "facility_code": "21W0000000000435",
+                    "name_short": "Skallen",
+                    "nuts_id_1": "SE2",
+                    "nuts_id_2": "SE23",
+                    "nuts_id_3": "SE231"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.99,
+                    49.267
+                ]
+            },
+            "properties": {
+                "name": "UGS Bilche-Volytsko-Uherske",
+                "id": "GIE_N_133",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 284,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-BILCHE-4",
+                    "name_short": "BilcheVolytskoUherske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.54,
+                    48.802
+                ]
+            },
+            "properties": {
+                "name": "UGS Bohorodchanske",
+                "id": "GIE_N_134",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 347,
+                    "exact": 3,
+                    "facility_code": "56W-UGS-BOHORO-4",
+                    "name_short": "Bohorodchanske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.666,
+                    48.723
+                ]
+            },
+            "properties": {
+                "name": "UGS Chervonopartyzanske",
+                "id": "GIE_N_135",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 71,
+                    "exact": 3,
+                    "facility_code": "56W-UGS-CHERVO-W",
+                    "name_short": "Chervonopartyzanske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.235,
+                    49.267
+                ]
+            },
+            "properties": {
+                "name": "UGS Dashavske",
+                "id": "GIE_N_136",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 251,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-DASHAV-S",
+                    "name_short": "Dashavske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Kehychivske",
+                "id": "GIE_N_137",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 155,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-KEHYCH-X",
+                    "name_short": "Kehychivske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Krasnopopivske",
+                "id": "GIE_N_138",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 138,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-KRPOPY-Q",
+                    "name_short": "Krasnopopivske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Olyshivske",
+                "id": "GIE_N_139",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 149,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-OLYSHI-5",
+                    "name_short": "Olyshivske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6,
+                    49.44
+                ]
+            },
+            "properties": {
+                "name": "UGS Oparske",
+                "id": "GIE_N_140",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 278,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-OPARSK-2",
+                    "name_short": "Oparske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16,
+                    49.0202
+                ]
+            },
+            "properties": {
+                "name": "UGS Proletarske",
+                "id": "GIE_N_141",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 117,
+                    "exact": 3,
+                    "facility_code": "56W-UGS-PROLET-T",
+                    "name_short": "Proletarske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Solokhivske",
+                "id": "GIE_N_142",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 164,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-SOLOKH-4",
+                    "name_short": "Solokhivske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Verhunske",
+                "id": "GIE_N_144",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "elevation_m": 173,
+                    "exact": 4,
+                    "facility_code": "56W-UGS-VERHUN-S",
+                    "name_short": "Verhunske",
+                    "nuts_id_1": "UA",
+                    "nuts_id_2": "UA",
+                    "nuts_id_3": "UA"
+                },
+                "uncertainty": {
+                    "eic_code": 0,
+                    "elevation_m": 0,
+                    "exact": 0,
+                    "facility_code": 0,
+                    "name_short": 0,
+                    "nuts_id_1": 0,
+                    "nuts_id_2": 0,
+                    "nuts_id_3": 0
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "elevation_m": "Bing API",
+                    "exact": "raw",
+                    "facility_code": "raw",
+                    "name_short": "raw",
+                    "nuts_id_1": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_2": "M_Consumers.add_Nuts_Num()",
+                    "nuts_id_3": "M_Consumers.add_Nuts_Num()"
+                }
+            }
+        }
+    ]
+}
